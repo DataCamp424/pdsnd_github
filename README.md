@@ -14,8 +14,8 @@ There are several statistics for the bikeshare usage of three major cities in th
 * user types
 
 ### Files used:
-**bikeshare.py** - script 
-**chicago.csv** - bikeshare data of Chicago
-**washington.csv** - bikeshare data of Washington
-**new_york_city.csv** - bikeshare data of New York City
+    **bikeshare.py** - script 
+    **chicago.csv** - bikeshare data of Chicago
+    **washington.csv** - bikeshare data of Washington
+    **new_york_city.csv** - bikeshare data of New York City
 
