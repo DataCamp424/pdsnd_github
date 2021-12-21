@@ -14,6 +14,3 @@ There are several statistics for the bikeshare usage of three major cities in th
     **washington.csv** - bikeshare data of Washington
     **new_york_city.csv** - bikeshare data of New York City
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
