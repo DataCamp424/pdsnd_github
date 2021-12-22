@@ -1,6 +1,7 @@
 import pandas as pd
 import time
 
+# dictionary for assigning the correct file to the city
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
