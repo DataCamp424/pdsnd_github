@@ -140,9 +140,9 @@ def time_stats(df, month, day):
 
     # display the most common month
     if month == 'all':
-        popular_month = df['Month'].mode()[0]
-        popular_month_name = valid_months[popular_month - 1]
-        print('The Most Common Month is: ', popular_month_name.title())
+        pop_month = df['Month'].mode()[0]
+        pop_month_name = valid_months[pop_month - 1]
+        print('The Most Common Month is: ', pop_month_name.title())
     else:
         print('The Most Common Month is: You chose to filter by the month {}, so of course {} is the '
               'Most Common Month :-)'.format(month.title(), month.title()))
